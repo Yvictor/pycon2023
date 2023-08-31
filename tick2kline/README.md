@@ -22,7 +22,7 @@ cargo add polars -F lazy -F parquet -F temporal
 cargo build --release
 ```
 
-## run
+## execute
 ```
 cp ./target/release/tick2kline .
 
